@@ -1,5 +1,7 @@
 # WESTIE Shop and Blog
 
+### Note, Spent most of Weekend on trying to resolve Heroku issues, Heroku was returning 404's despite everything running locally, to test this application, if no luck on the Heroku link, please install locally. Will keep working on Heroku link in the meantime - John 19th July 2020
+
 # Description
 
 Log in, create your profile and browse from our Westie Shop. Where you can purcahse Westies or Scotty dogs from reputable breeders, also you can share your posts and ideas as well.
