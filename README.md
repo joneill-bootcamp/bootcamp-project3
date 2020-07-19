@@ -1,2 +1,2 @@
-# bootcamp-project3
-Bootcamp 3 - WESTIE SHOP
+# project3
+Final project for bootcamp
