@@ -18,7 +18,7 @@ Log in, create your profile and browse from our Westie Shop. Where you can purca
 
 # Heroku Link
 
-> hhttps://vast-citadel-63663.herokuapp.com
+> https://vast-citadel-63663.herokuapp.com
 
 # Table of Contents
 
