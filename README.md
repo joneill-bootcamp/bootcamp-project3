@@ -12,6 +12,10 @@ Log in, create your profile and browse from our Westie Shop. Where you can purca
 
 <img width="855" alt="image" src="https://user-images.githubusercontent.com/59762660/87877271-aab56400-ca20-11ea-8540-79529aee978d.png">
 
+# Built in Shopping Cart functionality with Pay Pal Support
+
+<img width="846" alt="image" src="https://user-images.githubusercontent.com/59762660/87877655-d2a5c700-ca22-11ea-93d4-372194f5b5f7.png">
+
 # Repo Link
 
 > https://github.com/joneill-bootcamp/bootcamp-project3
