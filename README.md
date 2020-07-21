@@ -8,6 +8,8 @@ Log in, create your profile and browse from our Westie Shop. Where you can purca
 
 <img width="861" alt="image" src="https://user-images.githubusercontent.com/59762660/87877086-9fae0400-ca1f-11ea-8d3d-b88f9a4c0f0a.png">
 
+--- 
+
 <img width="856" alt="image" src="https://user-images.githubusercontent.com/59762660/87877236-7d68b600-ca20-11ea-95c0-17cb04253bec.png">
 
 <img width="769" alt="image" src="https://user-images.githubusercontent.com/59762660/87877253-9709fd80-ca20-11ea-88f4-3e0ba0403f4c.png">
