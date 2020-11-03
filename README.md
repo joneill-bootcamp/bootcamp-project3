@@ -1,6 +1,6 @@
 # WESTIE Shop and Blog
-
-### Note, Spent most of Weekend on trying to resolve Heroku issues, Heroku was returning 404's despite everything running locally, to test this application, if no luck on the Heroku link, please install locally. Will keep working on Heroku link in the meantime - John 19th July 2020
+ 
+A Shop for all your WESTIE and SCOTTIE needs
 
 # Description
 
